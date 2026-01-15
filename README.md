@@ -1,4 +1,3 @@
-# math_porfolio
 # Mathematical Foundations Learning Portfolio
 
 **Repository**: `melaniagr/math_porfolio_`  
